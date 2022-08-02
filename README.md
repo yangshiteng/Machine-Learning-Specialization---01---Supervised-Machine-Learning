@@ -65,6 +65,7 @@ This lets you take a big data-set and almost magically compress it to a much sma
 
 ![image](https://user-images.githubusercontent.com/60442877/182281778-0aee30cb-cb35-4c70-8f3c-463d518104f9.png)
 
+![image](https://user-images.githubusercontent.com/60442877/182282554-b25c5156-8cfb-4f8e-840b-cb90926f3624.png)
 
 
 
