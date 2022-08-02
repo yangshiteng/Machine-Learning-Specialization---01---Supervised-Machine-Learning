@@ -61,6 +61,7 @@ This lets you take a big data-set and almost magically compress it to a much sma
 
 ## Regression Model
 
+![image](https://user-images.githubusercontent.com/60442877/182280605-bc5d2716-18cb-4bfe-921f-dcfccaaec7c0.png)
 
 
 
